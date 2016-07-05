@@ -273,18 +273,7 @@ input {
 }
 /* ** ###### Css for map and decoration ######## *** */
 
-.map area:hover{
-	background-color:#f56b2a;
 
-}
-.map area:link{
-
-	background-color:#f56b2a;
-}
-.map area:active{
-
-	background-color:#f56b2a;
-}
 .mboka{
 	margin-top: 30px;
 	margin-left: 20px;
@@ -297,7 +286,7 @@ input {
 
 /* *** ######  End of Css map ######  */
 .droite{
-	width: 250px;
+	width: 200px;
 	float: right;
 	position: relative;
 	/*background-color: blue;*/
